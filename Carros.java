@@ -25,18 +25,5 @@ public class Carros {
 	System.out.println(Carro09);
 	System.out.println(Carro10);
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	 
-    
-
-}
+	 }
 }
