@@ -6,7 +6,8 @@ package Atividades;
 	   LOUISVUITTON,
 	   GUCCI,
 	   PRADA,
-	   HERMÈS,
+	   HERMES,
 	   FENDI,
 	   DOLCEGABBANA,
   }
+
